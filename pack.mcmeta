@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 142,
+    "description": [
+      { "text": "§b[ NULL REALITY ]", "bold": true },
+      { "text": "\n§7System Version 26.1.2. Protocol: ", "italic": true },
+      { "text": "§4TERMINATED", "color": "#ff0000" }
+    ]
+  }
+}
