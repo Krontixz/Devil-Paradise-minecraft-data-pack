@@ -1,0 +1,24 @@
+{
+  "sea_level": 0,
+  "disable_mob_generation": false,
+  "aquifers_enabled": false,
+  "default_block": { "Name": "minecraft:crying_obsidian" },
+  "default_fluid": { "Name": "minecraft:lava" },
+  "noise": {
+    "min_y": -64,
+    "height": 384,
+    "size_horizontal": 1,
+    "size_vertical": 2,
+    "sampling": {
+      "xz_scale": 1.5,
+      "y_scale": 3.0,
+      "xz_factor": 80.0,
+      "y_factor": 160.0
+    },
+    "terrain_shaper": {
+      "offset": 0.5,
+      "factor": 2.0,
+      "jaggedness": 1.0
+    }
+  }
+}
