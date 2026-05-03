@@ -1,0 +1,31 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        }
+    "location_predicate": {
+      "predicate_type": "minecraft:random_block_match",
+        "block": "minecraft:dark_oak_planks",
+        "probability": 0.9
+        },
+    "result_state": { "Name": "minecraft:crying_obsidian" } 
+},
+{
+  "location_predicate": {
+    "predicate_type": "minecraft:block_match",
+    "block": "minecraft:cobblestone"
+  },
+  "result_state": { "Name": "minecraft_skulk" }
+},
+{
+  "location_predicate": {
+    "predicate_type": "minecraft:block_match",
+    "block": "minecraft:glass_pane"
+  },
+  "result_state": { "Name": "minecraft:tinted_glass" }
+}
+]
+}
+]
+}
